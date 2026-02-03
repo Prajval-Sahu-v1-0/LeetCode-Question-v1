@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0151-reverse-words-in-a-string) |
 ## String Matching
 |  |
 | ------- |
