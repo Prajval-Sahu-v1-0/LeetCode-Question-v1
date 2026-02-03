@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
