@@ -10,13 +10,13 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode slow = head, fast = head;
+      /*  ListNode slow = head, fast = head;
         while(fast != null && fast.next != null)
         {
             slow = slow.next;
             fast = fast.next.next;
         }
-
+        
         ListNode prev = null;
         while(slow != null)
         {
@@ -31,6 +31,17 @@ class Solution {
             if(prev.val != head.val)return false;
             prev = prev.next;
             head = head.next;
-        }return true;
+        }return true; */
+
+        StringBuilder sb = new StringBuilder();
+        
+        ListNode temp = head;
+        while(temp != null){
+            sb.append(temp.val);
+            temp= temp.next;
+        }
+        String orignal = sb.toString();
+        String reversed = sb.reverse().toString();
+        return orignal.equals(reversed);
     }
 }
