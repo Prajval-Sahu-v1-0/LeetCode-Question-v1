@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0234-palindrome-linked-list) |
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0189-rotate-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0148-sort-list) |
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
