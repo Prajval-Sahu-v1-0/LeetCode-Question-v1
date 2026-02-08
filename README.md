@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
 ## Stack
