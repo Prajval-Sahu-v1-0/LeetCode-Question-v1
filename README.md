@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## String
