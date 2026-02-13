@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## String
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
 ## Stack
