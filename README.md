@@ -137,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## Depth-First Search
+|  |
+| ------- |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## Binary Tree
+|  |
+| ------- |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
