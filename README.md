@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0148-sort-list) |
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0067-add-binary) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+## Counting
+|  |
+| ------- |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
