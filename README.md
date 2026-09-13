@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0231-power-of-two) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0231-power-of-two) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
