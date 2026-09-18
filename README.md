@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0165-compare-version-numbers) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-pancake-sorting](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1009-pancake-sorting) |
+| [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Trie
 |  |
 | ------- |
