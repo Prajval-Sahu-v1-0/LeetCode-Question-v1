@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0231-power-of-two) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Stack
 |  |
 | ------- |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
