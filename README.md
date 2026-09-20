@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0165-compare-version-numbers) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [3811-reverse-degree-of-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0067-add-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
