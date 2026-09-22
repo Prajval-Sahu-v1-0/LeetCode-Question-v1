@@ -1,21 +1,18 @@
-from typing import List
-
 class Solution:
-    def resultArray(self, nums: List[int], k: int) -> List[int]:
+    def resultArray(self, nums: list[int], k: int) -> list[int]:
+        n = len(nums)
         result = [0] * k
-        dp = [0] * k  # dp[s] = number of subarrays ending at current index with product % k == s
-
-        for num in nums:
-            a = num % k
-            new_dp = [0] * k
-            for s in range(k):
-                if dp[s]:
-                    ns = (s * a) % k
-                    new_dp[ns] += dp[s]
-            new_dp[a] += 1  # the new singleton subarray starting and ending here
-            dp = new_dp
-
-            for s in range(k):
-                result[s] += dp[s]
-
+        cnt = [0] * k  # counts for subarrays starting at i+1 (initially empty, i = n)
+        
+        for i in range(n - 1, -1, -1):
+            newcnt = [0] * k
+            m = nums[i] % k
+            newcnt[m] += 1  # subarray consisting of just nums[i]
+            for u in range(k):
+                if cnt[u]:
+                    newcnt[(m * u) % k] += cnt[u]
+            for x in range(k):
+                result[x] += newcnt[x]
+            cnt = newcnt
+        
         return result
