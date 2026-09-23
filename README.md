@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0202-happy-number) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3831-find-x-value-of-array-i](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3831-find-x-value-of-array-i) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |
@@ -177,8 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Geometry
 |  |
 | ------- |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1501-circle-and-rectangle-overlapping) |
+## Prefix Sum
+|  |
+| ------- |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
