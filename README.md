@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3831-find-x-value-of-array-i](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3831-find-x-value-of-array-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/0231-power-of-two) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/1501-circle-and-rectangle-overlapping) |
 | [3831-find-x-value-of-array-i](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3831-find-x-value-of-array-i) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prajval-Sahu-v1-0/LeetCode-Question-v1/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Stack
 |  |
 | ------- |
